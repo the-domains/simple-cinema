@@ -1,0 +1,23 @@
+name: Simple Cinema
+favicon: null
+layout_spectrum: 0.6210156483575702
+typography_spectrum: 0.5169392465613782
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.10997117380611598
+  lightness: 0.48827334656380117
+  saturation: 0.028653590474277735
+  rhythmicContrast: 0.4885448603890836
+purpose: []
